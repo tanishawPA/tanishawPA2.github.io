@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to My Website! 
+
+This is a website I have created using Github pages and Jekyll.
 
 You can use the [editor on GitHub](https://github.com/tanishawPA/tanishawPA2.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
